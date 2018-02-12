@@ -1,6 +1,8 @@
 # VirtualSystemsProject
 Virtual Systems Project: Architecture for multi-interface communications with VDE
 
+This repository contains the report on the "Virtual Systems Project" university project. For practical reasons the scripts are included in the report.
+
 
 Virtual Square is a project born in 2004 within the University of Bologna and today can be defined as an international laboratory of projects related to virtuality. Its name contains its essence, which is to put together several virtual projects unifying concepts and creating tools for interoperability.
 Its logo, V 2, is read as Virtual Squared and contains another purpose of the Virtual Square project, that is to exploit the existing virtuality to create additional virtual services.
