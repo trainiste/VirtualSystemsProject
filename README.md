@@ -1,5 +1,5 @@
 # VirtualSystemsProject
-Virtual Systems Project: Architecture for multi-interface communications with VDE
+Architecture for multi-interface communications with VDE
 
 This repository contains the report on the "Virtual Systems Project" university project. For practical reasons the scripts are included in the report.
 
